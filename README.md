@@ -1,2 +1,2 @@
-# Web-Tasarim-devi
+# Web-Tasarim-Ödevi
 Web  Tasarim Ödevi Muhammed Küpçü
